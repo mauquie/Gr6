@@ -1,0 +1,3 @@
+Hugo = Poker controller, Partie
+Lucas = Coup, Croupier
+Tristan le strict = Joueur, Carte
