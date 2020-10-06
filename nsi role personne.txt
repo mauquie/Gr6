@@ -1,3 +1,4 @@
-Hugo = Poker controller, Partie
+Hugo = Joueur, Partie
 Lucas = Coup, Croupier
 Tristan le strict = Joueur, Carte
+Tous = Poker Controller
